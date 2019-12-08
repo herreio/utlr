@@ -1,0 +1,4 @@
+.Rproj.user
+packrat/lib*/
+packrat/src/*
+!packrat/src/packrat
