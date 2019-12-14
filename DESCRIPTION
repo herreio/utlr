@@ -3,7 +3,6 @@ Title: Miscellaneous R utility functions
 Version: 0.0.0.9000
 Authors@R: person("Donatus", "Herre", email = "git@herre.io", role = c("aut", "cre"))
 Description: Miscellaneous R utility functions
-Depends: R (>= 3.6.1)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
