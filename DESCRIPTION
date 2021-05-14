@@ -1,6 +1,6 @@
 Package: utlr
 Title: Miscellaneous R utility functions
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: person("Donatus", "Herre", email = "git@herre.io", role = c("aut", "cre"))
 Description: Miscellaneous R utility functions
 License: What license is it under?
