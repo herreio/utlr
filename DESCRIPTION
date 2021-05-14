@@ -9,5 +9,6 @@ Depends:
 Encoding: UTF-8
 LazyData: true
 Imports:
-    dplyr
+    dplyr,
+    magrittr
 RoxygenNote: 7.0.2
